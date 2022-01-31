@@ -1,1 +1,2 @@
-console.log('hello git!');
+const hello = 'hello git world!'
+console.log(hello);
